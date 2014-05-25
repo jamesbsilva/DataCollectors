@@ -1,4 +1,4 @@
 DataCollectors
 ==============
 
-Random data collectors using APIs or scrapers.
+Random data collectors using APIs or scrapers using BeautifulSoup.
