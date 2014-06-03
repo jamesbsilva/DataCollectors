@@ -26,8 +26,8 @@ from subprocess import call
 #
 #	scrapeReddit scrapes reddit for vote data.
 #
-#
-#
+#	-
+#	jbsilva
 #
 
 

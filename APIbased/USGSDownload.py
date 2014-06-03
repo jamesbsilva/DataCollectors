@@ -19,6 +19,8 @@ MAG_COL = 4;
 #
 # 	Uses USGS API to get earthquake data for various locations such as the LA county area.
 #
+#	-
+#	jbsilva
 
 def fetchSite(url) :
 	time.sleep(0.0+random.random()*2.0)
